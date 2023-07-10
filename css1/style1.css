@@ -1,0 +1,7 @@
+.baner {
+  display: flex;
+  margin: 0 auto;
+  width: 1206px;
+  height: 150px;
+  position: relative;
+}
